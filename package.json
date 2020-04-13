@@ -1,0 +1,23 @@
+{
+  "name": "grass-common",
+  "version": "0.0.1",
+  "description": "Packages shared between client and server for the grass game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielemery/grass-common.git"
+  },
+  "author": "Daniel Emery <danielremery@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/danielemery/grass-common/issues"
+  },
+  "homepage": "https://github.com/danielemery/grass-common#readme",
+  "devDependencies": {
+    "@danielemeryau/prettier-config": "0.0.6",
+    "typescript": "^3.8.3"
+  }
+}
